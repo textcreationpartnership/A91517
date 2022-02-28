@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange-predictions related at Catericke in the north of England: by one who saw a vision, and told it himselfe to the company with whom he was drinking healths; how he was struck, and an angel appeared to him with a sword. A revelation made to him; and the whole narrative of the same. Certified by a letter from an eminent person.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91517</idno>
+            <idno type="STC">Wing P75</idno>
+            <idno type="STC">Thomason E444_6</idno>
+            <idno type="STC">ESTC R204760</idno>
+            <idno type="EEBO-CITATION">99864223</idno>
+            <idno type="PROQUEST">99864223</idno>
+            <idno type="VID">116447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116447)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E444[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange-predictions related at Catericke in the north of England: by one who saw a vision, and told it himselfe to the company with whom he was drinking healths; how he was struck, and an angel appeared to him with a sword. A revelation made to him; and the whole narrative of the same. Certified by a letter from an eminent person.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+                  <author>P. M.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>by R.I. for A.H.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of 2 letters: the first signed "L.P." [i.e. Laurence Price], the second signed "P.M.".</note>
+                  <note>With title-page woodcut.</note>
+                  <note>Annotation on Thomason copy: "May 25th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Visions --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies --  Early works to 1800.</term>
+               <term>Berwick-upon-Tweed (England : District) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Jason Colman</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Jason Colman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116447:1" rendition="simple:additions"/>
+            <p>
+               <hi>STRANGE-PREDICTIONS</hi> RELATED at CATERICKE In the North of <hi>England:</hi> By one who ſaw a viſion, and told it himſelfe to the Company with whom he was drinking Healths; How he was ſtruck, and an Angel appeared to him with a SWORD.</p>
+            <p>A Revelation made to him; and the whole Narrative of the ſame.</p>
+            <p>
+               <hi>Certified by a Letter from an eminent perſon.</hi>
+            </p>
+            <figure/>
+            <p>Printed at <hi>London</hi> by R.I. for A. H. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116447:2"/>
+            <pb n="1" facs="tcp:116447:2"/>
+            <head>Strange Predictions related at <hi>Catericke,</hi> in the North of <hi>England,</hi> by one who ſaw a Viſion, and told it himſelf to the Company with whom he was drinking healths.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>UPon receipt of yours, with the intimation of your deſires to be ſatisfyed touching that currant relation of what lately happened here at <hi>Catericke,</hi> upon a more ſerious examination of e<g ref="char:EOLhyphen"/>very particular, I found the ground of that ſtory, ſo generally diſ<g ref="char:EOLhyphen"/>perſed, and by credulous eares eaſily beleeved, to be this.</p>
+            <p>A conſort of Good-fellows, or to beſtow on them their true ſtampe and ſtile, a knot of ſociable <hi>Newtrals,</hi> (for really intereſted they were to no party) made their ſet meeting, at this Town: where they drunke downe care merrily? called for their cups freely, and ſo beſtowed moſt part of that day in repetition of their youth full prankes with other offencel eſſe ſtories, chearfully.</p>
+            <p>Till one of the company with veines as full of wine, as his brain was empty of wit, began a health to the <hi>ſeaven Planets,</hi> taking a deepe oath that it ſhould go round. But two of thoſe ſeven grew too hard for him to incounter withall: So as, becomming <hi>Planet-ſtrucke,</hi> he tooke councell of his pillow, leaving the remainder of thoſe healths to the reſt of his company.</p>
+            <p>Scarcely had this over-wrought Comrade laid an houre in this ſort: till through exceſſe of liquor or ſome other occaſionall di<g ref="char:EOLhyphen"/>ſtemper, he diſcovered upon his awaking all the ſymptoms of a fea<g ref="char:EOLhyphen"/>vor: and in that violent manner, as the ſtrength of two or three of the moſt activeſt ſpirits there could with much difficulty hold him.</p>
+            <p>After ſome ſmall inſpiration, as one awaked out of a fearfull ſlumber, looking at the firſt perplextly about him, with a paſſio<g ref="char:EOLhyphen"/>nate ſigh. He begun to tell the ſtanders by how a terrible appari<g ref="char:EOLhyphen"/>tion had preſented it ſelfe to him: and by it injoyned, as he ten<g ref="char:EOLhyphen"/>dered his future ſafety, ſeriouſly and ingenuouſly to communicate
+<pb n="2" facs="tcp:116447:3"/>what he had ſeene, and heard delivered to him in that viſion, to ſuch ſubſtantiall Inhabitants of the Towne, as might not onely re<g ref="char:EOLhyphen"/>taine it in mind, and uſefully make benefit of it, but impart it like<g ref="char:EOLhyphen"/>wiſe to others of their neighbours, who were equally intereſted in the relation which he was charged to deliver unto them.</p>
+            <p>To give him ſatisfaction, divers of the ſufficienteſt inhabitants were ſent for upon whoſe repair, he addreſſed his ſpeech unto them in this ſort, after he had raiſed himſelfe a little upon his pillow.</p>
+            <p>You may perchance, my Maſters, imagine that what I am here to diſcover to you, proceeds from the diſtempers of an unſettled braine: which my late too liberall and exceſſive company brought me to.</p>
+            <p>But I muſt tell you with a ſenſe as recollected and cleare as if it had been never diſtempered: that the commands, nay, and commi<g ref="char:EOLhyphen"/>nations too (for both theſe were injoyned me) ſhall be freely and really delivered to you, as they were with much affrightment preſented me: And in them ſtrictly commaned to returne them to you.</p>
+            <p>Know then, my friends, that there appeared to me in my ſleepe a viſion, preſented to me at the firſt ſight in a terrible and ſenſe-ama<g ref="char:EOLhyphen"/>ring poſture; brandiſhing over my head a ſword all beſmered with blood: which at firſt I conceived to be juſtly unſheathed and mena<g ref="char:EOLhyphen"/>ced againſt me, for my exceſſive abuſe of time, and thoſe precious benefits, which with ſuch careleſſe and ſenſuall freedome I had a<g ref="char:EOLhyphen"/>buſed. This in humain reaſon (ſo much at leaſt, as ſociety accom<g ref="char:EOLhyphen"/>panied with a loathed ſaciety had left me) I might well apply to my ſelfe and impute to my folly: having ſo long time reſolved, to decline what naturally I was addicted to: and to confine my looſe &amp; unbounded will, to a more temperate command of my affections: and rationall obedience to a diviner Edict. This, I muſt confeſſe, produc'd in me an unſpeakable terror, in taking a ſerious review of my owne errors: and applying the uſe of this fearfull apparition to my ſelfe, and expecting every minut, when I ſhould receive ſome menacing Lecture from it. At laſt, and unexpectedly as if it had been transformed to another mold, it appeared to me with a more cheerfull and pleaſing preſence, diverting the ſword which it for<g ref="char:EOLhyphen"/>merly brandiſhed over me towards your Towne, expreſſing it ſelfe in this manner.</p>
+            <pb n="3" facs="tcp:116447:3"/>
+            <p>You Sir, who if you timely decline not your accuſtomed diſtemper, muſt not expect a continued impunity to your abuſed liberty: If you ſinke thus in your lees, and retaine no ſenſe of ſin nor ſhame, the ſcourge of Scorpions will at laſt bring your debaucht courſe to a ſenſe of both; ſin to condemn you, ſhame to confound you. Re<g ref="char:EOLhyphen"/>flect on your ſelfe in theſe, and after theſe attend my charge.</p>
+            <p>
+               <hi>Acquaint theſe too ſecure and regardleſſe Inhabitants of this Towne where thou now remaineſt, and where thy late diſtempers have lodged thee. That their ingratitude to God and Man will ſhortly ſharpen the edge of his revenging ſword againſt them. His bow already is bent, his vials full of wrath ready to be powred down on them. Would they know the cauſe? They have been ſeated in the ſat of the Land: A fruitfull and fertle ſoyle hath made them ſenſeleſſe of their condition, never fixing on him from whom they received this proviſion. The fullneſſe and variety of Gods benefits in their ſucceſſive and ſeaſonable Harveſts have made them forgetfull of the</hi> cheife Maſter <hi>of the</hi> Family. <hi>Doe they expect to receive, and never to returne an acknowledgement of their homaage or ſervice to him, to whom they ſtand ſo highly obliged? What is it which they have not received? And wherein is it that they have approved themſelves thank<g ref="char:EOLhyphen"/>full receivers? And what greater or larger</hi> root <hi>of</hi> evill, <hi>ſeeing it dryes up the ſpring of Gods mercy, imbitters the ſweeteſt waters, by converting his bleſſings into curſes, through this diſ-acknowledgement of his bleſſings?</hi>
+            </p>
+            <p>
+               <hi>The due conſideration of thoſe miſeries inflicted upon others, and thoſe their door neighbours, might induce them to recollect Gods mercies to them, who though conſcious of higher ſinnes, have not as yet partaked of the like judgements. Let them but caſt their compaſſionate eyes upon ſome of thoſe neare bordering or ad<g ref="char:EOLhyphen"/>jacent fields, divided onely by an hedge or ſtrait limit from their owne, and they must neceſſarily acknowledge Gods ineſtimable mercy in exempting them from ſo neighbouring a miſery. Have not ſome of their fruitfulleſt fields been mill-dewed? Nay, have not Catterpillers and Graſhoppers conſumed their fruits; and made their Store-bouſes groane through ſcarcity?</hi> Let them reflect a little fur<g ref="char:EOLhyphen"/>ther, and they ſhall heare of afflictions, nay terrible judgements, pre<g ref="char:EOLhyphen"/>ſented to their view in a more remarkable and fearefull manner For were not whole Corne-fields, that promiſed as faire &amp; free a crop, as the longing Husbandman could poſſibly expect, wholly deſtroyed &amp; conſumed; by ſome occult meanes which all their endeavours could never diſcover, till at laſt one of them deſiring much to retreve the cauſe thereof, chanced to catch a Flye, large in proportion, and vaſt extenſion in its orifice, on whoſe wings variouſly and curiouſly
+<pb n="4" facs="tcp:116447:4"/>ſpeckled, were theſe two words indented, and by no meanes, they could uſe to be razed: <hi>IRE DEI.</hi> This memorable judgement they cannot chuſe but remember, and with the memory thereof, bee ſtrucke in terror!</p>
+            <p>
+               <hi>But how were it poſſible, that they ſhould ſhew leaſt ſemblance of thank fulneſſe to him, whom they never ſaw, though they have amply taſted of his bounty, when they cannot retain a thought of gratefull retribution to him, from whom they daily derive their livelihood &amp; ſubſiſtance; and of whoſe many civilities towards them, before theſe diſtractions, they have received ſufficient experience. By his means, next under God, have they lived, and in ſuch plenteous manner, as the</hi> Farmer <hi>hath reaped more benefit then the</hi> Owner. <hi>All this while, what have they re<g ref="char:EOLhyphen"/>turned out of his revenues, on whom they depended, and by whoſe leave they in<g ref="char:EOLhyphen"/>habited, but neglect, and inſupportable injuries? Now muſt not theſe indignities render heavy judgements.</hi>
+            </p>
+            <p>
+               <hi>Oh what an injurious and malignant thing is man, when he begins to dege<g ref="char:EOLhyphen"/>nerate from himſelfe, and unman that part in him which makes him moſt man? There is no creature more ſavage then he who ſhould be the civileſt of all crea<g ref="char:EOLhyphen"/>tures, when he ſuffereth his thoughts to play the Serpents, and creep on the earth! This their groundling diſpoſitions have acted to life, by deſerting him who gave them competences for life; and expoſing himſelfe and family to want, for their weale. Farmers contribute amply, as members of one ſociety, to the Saints ne<g ref="char:EOLhyphen"/>ceſſity, and your Landlords neceſſitous quality, or expect a ſpeedy alarme of ven<g ref="char:EOLhyphen"/>geance and fury to you, your family and poſterity.</hi>
+            </p>
+            <p>Upon which words, hee fell into a violent paſſion, crying out, in a furious and diſtempered manner, <hi>He comes, He comes, Have among you, The Devill, The Devill.</hi>
+            </p>
+            <p>At which ſtrange alteration and uncouth paſſion, the ſtanders by became much aſtoniſhed and affrighted: which was increaſed by this occaſion. It chanced, that the very ſame time, there was an enter<g ref="char:EOLhyphen"/>lude to be preſented by ſome young men neare adjoyning. But this terrible burly-burly comming from the next houſe, where the Play was to be acted, quickly diſſolved the Auditory, flocking thither, pur<g ref="char:EOLhyphen"/>pofely to enquire the occaſion of this clamor.</p>
+            <p>
+               <hi>So generally deſperſed grew this rumor, as it occaſioned, to the eaſe of the Townſhip, ſundry Troopers to remove their quarters. It were to be wiſhed, that it might produce the like effect bereafter</hi> Amongſt which one of the actors who was to play the Devills part, runne amongſt them for company, attired in a Devills habit, as terrible as a Countries property or in<g ref="char:EOLhyphen"/>vention
+<pb n="5" facs="tcp:116447:4"/>could make him. Upon whoſe entrance, thoſe who were preſent in the houſe, calling to minde the words which had beene a little before uttered: <hi>He comes, He comes, Have among you, The Devill, The Devill;</hi> without notice taken of his diſtemper who ſpake it, or of his perſon or habit, who ſo accidentally preſented it; they were ſo terrified with the approach of this poore Country Devill, as they runne forth into the ſtreets like ſo many diſtracted furies, ever and anon crying out, We will give all ſatisfaction, ſo the Devill will not take us. And to increaſe their feare, the ſmell of brimſtone and powder, which this enterlude Devill had raiſed with his ſquibs and crackers, did no leſſe annoy them, then his whiſtling habit did af<g ref="char:EOLhyphen"/>fright them. Neither did the iſſue of this ſtrangely occurring acci<g ref="char:EOLhyphen"/>dent end thus. For a perſon of quality, and who by his Commiſſi<g ref="char:EOLhyphen"/>onary power and place, might enquire, and by his commands re<g ref="char:EOLhyphen"/>preſſe all inconvenient or diſorderly aſſemblies, hearing a report hereof, tooke his horſe, that he might be an ocular witneſſe, and puniſher too, if occaſion were, of theſe incivilities. The Gentlmans houſe was not far diſtant from the Town, ſo as, croſſing over <hi>Swald,</hi> a pleaſant river, delightfully ſtreaming along in thoſe parts; he was no ſooner com<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the ſhoare, then ſurpriſed with ſome pannike feare, or ſome imaginary affright (probably derived from the ap<g ref="char:EOLhyphen"/>prehenſion of this terrible accident, for ſo he conceited it) he verily thought, that the horſe he rid on, was ſurrounded with fire, endea<g ref="char:EOLhyphen"/>vouring twice or thrice to quench the flame, which he ſuppoſed hung dangling in his main. In a word, he became ſo perplexed, and indeed wholly divided from himſelfe, as this imaginary phanaticke fire leading him through many blinde by-paths, brakes, and buſhes, cauſed him to ſpend moſt part of that unwelcome evening in this wandring condition, without leaſt knowledge of where he was, or whereto he addreſſed his courſe; till at laſt by a Field-keeper he was happily conducted home, ſince which time he hath remained in a weake and languiſhing manner, quite out of temper, yet inſenſible of his owne indiſpoſed humour. For his meagre complexion and enfeebled conſtitution, preſents him to thoſe that formerly knew him, a meer anatomized Skelleton. Daily he groundles away and waſts all, crying out ſometimes in his extremity: Oh how theſe Rams hornes doe puſh me; for loves ſake remove them from me.</p>
+            <p>We in theſe parts can doe no leſſe then wonder, that a perſon of
+<pb n="6" facs="tcp:116447:5"/>ſuch gravity and ſerious imployment, ſhould without any apparent motive to ſuch diſtempered paſſions, fall into theſe extreames. But our beſt Phyſitians have lately given ſome hope of his recovery; la<g ref="char:EOLhyphen"/>bouring daily to extract all ſuch vicious or corrupt humours (which as they poſitively and practically affirme) were deſtructive to his in<g ref="char:EOLhyphen"/>tellective parts, and the origen or ſource of theſe diſtempers.</p>
+            <p>The Gentleman whom we left with a worme in his braine, and a propheticall viſion in his ſleep; after a good nights reſt, perfectly re<g ref="char:EOLhyphen"/>covered; but ſtands ſtill upon juſtification of that viſion, which hee had to the inhabitants formerly related.</p>
+            <p>Give me leave here to annex one pleaſant paſſage, to ſweeten the bitterneſſe of the former: Alloes ſhould have ſome ſugar-pills to temper it. It chanced that one of this deep drenched ſociety at an unſeaſonable houre indenturing it homeward, in the meeting of two wayes, he might ſee, as he imagined, a Spirit ſtanding directly be<g ref="char:EOLhyphen"/>fore him in a white ſheet, where recollecting his wool-gathering ſenſes, he reſolved whatſoever became of it to ſpeake to it ſo as with a ſhuddring ſhrug or two, at laſt he thus encountred it: <hi>If thou beeſt a good ſpirit, I know thou wilt doe me no harme, for thou art of an honeſt ſociable temper; and if thou be the Devill himſelfe, thou haſt no reaſon to harme me, for I married thy ſiſter;</hi> but this <hi>white ſhrouded ſpirit</hi> turned into a <hi>white horſe</hi> which freed him of fear, and lent him more courage to grapple with his fury at home.</p>
+            <p>Now to be ſerious; you may expect ſome newes touching our Northerne march, and what is intended by our Brethren there: ſhal I ingenuouſly unboſome my ſelf unto you there cannot be more different opinions amongſt a Colledge of Doctors, then we reteine touching this grand intendment: ſome ſay their owne intereſts will ingage them: others that their diviſions at home will detaine them: ſome that the Cavalry of <hi>England</hi> will joyne with them: others, that the Scots will by no meanes admit them: ſome, that they will both joyn in the work, but march ſeverall wayes. There was a letter lately intercepted, being directed to a conſtant Cavallier rending in thoſe parts; the character was not found ſo obſcure, but it might be ren<g ref="char:EOLhyphen"/>dred, the effect thereof briefly thus:</p>
+            <p>My deareſt <hi>Phil.</hi> may felicity to the accompliſhment of all our wi<g ref="char:EOLhyphen"/>ſhes, accompany your glorious deſign of loyalty. A clear beam is ever moſt chearfull breaking through a cloud. A calme after a ſtorme;
+<pb n="7" facs="tcp:116447:5"/>our yoake hath been heavy, but it promiſeth liberty; our ſeven yeares miſery, hopes for a yeare of Jubilee. Your march hath beene long reported, now daily expected.</p>
+            <p>Many hands and hearts goe along with you; ſome to fight, others to pray for you: Ride on with honour, and may ſeaſonable wea<g ref="char:EOLhyphen"/>ther, conveniency of quarter, and all victorious ſucceſſe ſmile on your loyall endeavour. This ſpeedy meſſenger will not permit mee to inlarge my ſelfe any further. It is ſufficient, that you know the character of</p>
+            <closer>
+               <signed>Your reall friend and ſervant, <hi>L. P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A briefe Relation of our preſent condition in the <hi>North;</hi> upon what grounds the <hi>Cavalier party</hi> firſt advanced; with what hopes incouraged; what conſiderable places have been by them either ſummoned or ſurpriſed: and of what number the body of their Army conſiſted. With ſundry other particulars of main conſequence, in a Letter from a Factor to his Maſter lately directed.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce your pleaſure to imploy me in theſe parts, eſpecially for your Factory in <hi>Hull,</hi> and ſo occaſionally to <hi>Newcaſtle:</hi> I have beſtowed ſome time (whenſoever your more important affaires gave way) to take ſome curſory obſervations of ſuch principall actions or deſigns, as carried the face of a preſent undertaking here, or adjacent to theſe parts, where I have under your commands received imploy<g ref="char:EOLhyphen"/>ment.</p>
+            <p>You have, without doubt, heard in a more particular relation, our paſſages here about <hi>Barwick.</hi> A place ſometimes conſiderable, in reſpect it was not onely fortified, and ſtrongly garriſoned, but ac<g ref="char:EOLhyphen"/>counted an impregnable Barricado to all invaſive forces, that might labour to make their entrance or incurſion that way.</p>
+            <p>But of late, the place was of no ſuch ſtrength; for the intended n<g ref="char:EOLhyphen"/>nion and aſſociation of our two Kingdomes, had not onely occaſio<g ref="char:EOLhyphen"/>ned
+<pb n="8" facs="tcp:116447:6"/>a remove of all ſuch Garriſons as were there formerly continu<g ref="char:EOLhyphen"/>ed, but tranſlated their Ordnance too, by which the ſafety of that Port was preſerved.</p>
+            <p>Truth is, the <hi>Cavalier party</hi> became poſſeſſed here with great facili<g ref="char:EOLhyphen"/>ty: Forts admit an eaſie ſurpriſe, where there appeares no reſiſtance: Neither could the ſurpriſer purchaſe any great booty by his entry: For Ammunition he could f(<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nde little or none. Being a Towne ſince remove of the Garriſon and other diſ-proviſion; accounted of an inconſiderable condition.</p>
+            <p>It was, indeed, formerly a place of ſtrength, both in reſpect of the Site naturally fortified, and thoſe Out-workes artificially contrived, but theſe (as I touched before) were wholly ſlieghted, that all appea<g ref="char:EOLhyphen"/>rances or prints of hoſtility betwixt the Scottiſh Nation and us, might be utterly razed, and in oblivion buried.</p>
+            <p>Nothing is ſo much wondred at here, as the breaking downe of the Bridge at <hi>Barwick,</hi> which bred different opinions in perſons of approved judgements. For ſome of theſe gathered, and not im<g ref="char:EOLhyphen"/>probably neither, how it could not poſſibly be expected that any forces ſhould be raiſed by the Scots in defence of the Cavaliers, ha<g ref="char:EOLhyphen"/>ving ſo ſtrangely obſtructed their paſſage by that breach, being ima<g ref="char:EOLhyphen"/>gined rather an act to ſecure themſelves upon their entry, by preven<g ref="char:EOLhyphen"/>ting the incurſion of a ſuſpected enemy. Others collected from theſe premiſes, that the demolition of this Bridge was a meere pretence to delude the opinions of ſuch, as poſitively held it an apparent argu<g ref="char:EOLhyphen"/>ment of a diſ-correſpondence with them and the Scots. For it was not intended (as theſe ſuppoſed) that any occaſion ſhould proceed from hence of diverting the Scottiſh aſſiſtance or aſſociation with the Cavaliers; for though their paſſage here were obſtructed, yet had they many other invaſive wayes, in they intended any ſuch concurrence, &amp; that in a more fertill and plenteous march; and in their judgements more accommodate for their purpoſe; concluding, that the breaking downe of that Bridge, was but to make our inhabitants (ſuch I meane as are zealous for the cauſe) more ſecure and free from feare, when the occaſion was moſt imminent, rather then any other prever<g ref="char:EOLhyphen"/>tive deſigne.</p>
+            <p>But ſhall I deliver my opinion, under favour, freely? Nor ſhall I onely render mine owne, but as it holds weight in the ballance of others judgements, on whom I ingenuouſly depend more then mine owne?</p>
+            <pb n="9" facs="tcp:116447:6"/>
+            <p>Such be the diſtractions, and thoſe ſo irreconciliably increaſing by ſtrength of faction, and the private intereſts of ſuch powerfull agents as ſtirre in them, as their oares be ſo imployed at home, as they cannot for the preſent addreſſe their deſignes for any imploy<g ref="char:EOLhyphen"/>ment but their owne?</p>
+            <p>Their Divines too appeare in it, and have ſo effectually laboured to diſſwade them from any ſuch enterpriſe, as ſome of thoſe, who at the firſt profeſſed themſelves moſt active in the purſuit of this Ser<g ref="char:EOLhyphen"/>vice, have fallen off and offered reaſons of diſſwaſion to others upon ſome grounds, where with they were perſwaded. So as, this Ex<g ref="char:EOLhyphen"/>pedition, as is here reported, and by remonſtrances, from perſons of quality confirmed, hath lately growne cooler then was expected; whereby we may probably gather, that the ſecurity of the Cavalier, is not to receive life nor ſubſiſtence from them: howſoever he ſeem confident of their aſſiſtance. But affiance ſo politickly grounded, be<g ref="char:EOLhyphen"/>comes an <hi>AegyptiM<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſeed</hi> to the party deluded.</p>
+            <p>Truth is, it is the opinion of the cleareſt and unintereſſed judge<g ref="char:EOLhyphen"/>ments, that the <hi>Cavalier party</hi> muſt ſupport it ſelfe, to ſtand or fall; and that they appeared too ſpeedily to go on ſucceſively.</p>
+            <p>Sundry affections there are indeed, in every County, which rather follow the tyde, by cloſing with the time, and that <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ible force which they ſee likelieſt to prevaile, then either reaſon or conſcienti<g ref="char:EOLhyphen"/>ous zeale. But ſuch as theſe, who build their intereſts upon events, or approaching ſtrength, are neither to be much feared, nor their alliance much deſired, for they turne their by as to avoid rubs in the Alley; meane time, they incounter greater blocks, ariſing generally either through puſillanimity of ſpirit, or inconſtancy of judgement. Theſe that are moſt for thoſe that come firſt, are for moſt part ruined by thoſe that come laſt.</p>
+            <p>We have <hi>Carlile</hi> here likewiſe ſurpriſed, but a City more inconſi<g ref="char:EOLhyphen"/>derable then <hi>Barwicke:</hi> For it is a Towne full of poverty, and inha<g ref="char:EOLhyphen"/>bitants ſtrangers to induſtry. They report here, that their workes lately ſlieghted ſhould be repaired.</p>
+            <p>The Site of the Towne is onely conſiderable, preſenting a conve<g ref="char:EOLhyphen"/>niency of defence, in reſpect it is ſeated upon the marches betwixt <hi>Scotland</hi> and us; and by no meanes of their neighbourhood in times of peace, with many commodities furniſhed.</p>
+            <p>Very lately at <hi>Kirby Zoneſdale,</hi> a Market-Towne neare adjoyning
+<pb n="10" facs="tcp:116447:7"/>to the <hi>Barrony</hi> of <hi>Kendall,</hi> the Cavalier party appeared in a body conſiſting of 7000. under the command of Sir <hi>Thomas Glenam;</hi> but how their affections hold for that ſervice, a very ſhort time will diſcover.</p>
+            <p>Colonell <hi>Lambert</hi> is marching ſpeedily towards <hi>Skipton,</hi> intending as is thought, to give him battell.</p>
+            <p>
+               <hi>Lancaſhire</hi> ſtands in a poſture of defence, holding mainly for the Presbyterian government.</p>
+            <p>We finde in theſe parts a great decreaſe of Trade; but in the com<g ref="char:EOLhyphen"/>poſure of theſe diſtractions, we are hopefull of improvement. An account of all ſuch particulars as your laſt commands lay on me, ſhall upon next returne, be expedited by</p>
+            <closer>
+               <signed>Your Worſhips moſt humble ſervant, <hi>P. M.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 23. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Gilb. Mabbor.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
